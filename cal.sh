@@ -5,3 +5,6 @@ y=5
 z=$(( $x + $y ))
 echo " sum of x and y is= $z "
 
+
+
+###div
